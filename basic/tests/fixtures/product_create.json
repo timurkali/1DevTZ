@@ -1,0 +1,7 @@
+{
+  "name": "Test product",
+  "description": "Test description",
+  "price": 500000,
+  "amount": 50,
+  "category_id": 1
+}

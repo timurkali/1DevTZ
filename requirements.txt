@@ -1,0 +1,14 @@
+Django==4.1.2
+djangorestframework==3.14.0
+psycopg2==2.9.5
+django-filter==22.1
+redis==4.3.4
+celery==5.2.7
+django-celery-beat==2.4.0
+gevent==22.10.2
+PyJWT==2.6.0
+django-redis==5.2.0
+pytest==7.2.0
+pytest-flake8==1.1.1
+flake8==4.0.1
+pytest-django==4.5.2

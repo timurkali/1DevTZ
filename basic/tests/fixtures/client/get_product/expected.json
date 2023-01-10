@@ -1,0 +1,17 @@
+{
+   "count":1,
+   "next":null,
+   "previous":null,
+   "results":[
+      {
+         "id":1,
+         "category":{
+            "name":"Test category"
+         },
+         "is_discountable":false,
+         "name":"Test product",
+         "description":"Test description",
+         "price":500000
+      }
+   ]
+}
